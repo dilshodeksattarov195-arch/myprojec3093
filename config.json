@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterserify",
+        "uuid": 16278459,
+        "checksum": "9ktg6g"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
